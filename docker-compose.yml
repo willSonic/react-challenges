@@ -1,0 +1,25 @@
+version: '3'
+services:
+  api:
+    build:
+      context: ./node-web-api/.
+      dockerfile: ./Dockerfile.dev
+    image: local-node-web-api-img
+    container_name: node-web-api-container
+    networks:
+      - backend
+    ports:
+      - "8080:8080"
+    working_dir: "/usr/src/app"
+    volumes:
+      - "./node-web-api/.:/usr/src/app"
+
+  web-cli:
+    image: local-node-web-api-img
+    networks:
+      - backend
+    command: sh
+
+networks:
+  backend:
+    driver: bridge

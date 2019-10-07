@@ -1,0 +1,121 @@
+{
+  "results": [
+    {
+      "gender": "male",
+      "name": {
+        "title": "Mr",
+        "first": "Leopold",
+        "last": "Siersema"
+      },
+      "location": {
+        "street": {
+          "number": 7633,
+          "name": "Klein Hoogsteen"
+        },
+        "city": "Beutenaken",
+        "state": "Noord-Brabant",
+        "country": "Netherlands",
+        "postcode": 74680,
+        "coordinates": {
+          "latitude": "43.4504",
+          "longitude": "-54.6569"
+        },
+        "timezone": {
+          "offset": "+3:00",
+          "description": "Baghdad, Riyadh, Moscow, St. Petersburg"
+        }
+      },
+      "email": "Leopold.Siersema@example.com",
+      "login": {
+        "uuid": "8a8ce18b-ebfb-46c9-a1ff-ebe47f9366b4",
+        "username": "yellowzebra926",
+        "password": "banker",
+        "salt": "3T8TxUMQ",
+        "md5": "0ec8584cf77c32492c8cf07baaf4482e",
+        "sha1": "2eb3ad47573704cf04238e402f49afde3e3c5f50",
+        "sha256": "8b4c50141266403898084cfbf73e16c344ed3437bed9bb7abf94e28a3c8d9ee8"
+      },
+      "dob": {
+        "date": "1984-03-25T06:03:29.130Z",
+        "age": 35
+      },
+      "registered": {
+        "date": "2018-05-26T06:03:14.985Z",
+        "age": 1
+      },
+      "phone": "(495)-243-7284",
+      "cell": "(670)-784-7479",
+      "id": {
+        "name": "BSN",
+        "value": "09491170"
+      },
+      "picture": {
+        "large": "http://0.0.0.0:8080/assets/profile-images/leopold/large-leopold.jpg",
+        "medium": "http:///0.0.0.0:8080/assets/profile-images/leopold/med-leopold.jpg",
+        "thumbnail": "http:///0.0.0.0:8080/assets/profile-images/leopold/thumb-leopold.jpg"
+      },
+      "nat": "NL"
+    },{
+      "gender": "male",
+      "name": {
+        "title": "Mr",
+        "first": "Tristan",
+        "last": "Morgan"
+      },
+      "location": {
+        "street": {
+          "number": 9517,
+          "name": "York Road"
+        },
+        "city": "Winchester",
+        "state": "Derbyshire",
+        "country": "United Kingdom",
+        "postcode": "J2 8AS",
+        "coordinates": {
+          "latitude": "9.0429",
+          "longitude": "-59.4429"
+        },
+        "timezone": {
+          "offset": "+8:00",
+          "description": "Beijing, Perth, Singapore, Hong Kong"
+        }
+      },
+      "email": "Tristan.Morgan@example.com",
+      "login": {
+        "uuid": "fadfff49-83fe-4a5c-9964-d6fdb606bf7d",
+        "username": "happyfish849",
+        "password": "meme",
+        "salt": "Gm94OuXv",
+        "md5": "14ce00e9d90620883974927d2537f804",
+        "sha1": "20c9601b33921243b79f00a10a8a841816e5c23f",
+        "sha256": "acbc931d994f0fdb9e35cddbfaa1c33a11885c0b4d54fa5389d0b22ed828a52a"
+      },
+      "dob": {
+        "date": "1967-08-23T23:36:41.186Z",
+        "age": 52
+      },
+      "registered": {
+        "date": "2018-09-29T06:56:39.887Z",
+        "age": 1
+      },
+      "phone": "017687 93028",
+      "cell": "0763-260-853",
+      "id": {
+        "name": "NINO",
+        "value": "RT 56 11 35 S"
+      },
+      "picture": {
+        "large": "http://0.0.0.0:8080/assets/profile-images/tristen/large-tristen.jpg",
+        "medium": "http:///0.0.0.0:8080/assets/profile-images/tristen/med-tristen.jpg",
+        "thumbnail": "http:///0.0.0.0:8080/assets/profile-images/tristen/thumb-tristen.jpg"
+      },
+      "nat": "GB"
+    }
+  ],
+  "info": {
+    "seed": "1a39b5fa3932be67",
+    "results": 2,
+    "page": 1,
+    "version": "1.3"
+  }
+}
