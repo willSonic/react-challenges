@@ -110,11 +110,120 @@
         "thumbnail": "http:///0.0.0.0:8080/assets/profile-images/tristen/thumb-tristen.jpg"
       },
       "nat": "GB"
+    },
+    {"gender": "male",
+      "name": {
+        "title": "Mr",
+        "first": "Trygve",
+        "last": "Lystad"
+      },
+      "location": {
+        "street": {
+          "number": 3272,
+          "name": "Kasaveien"
+        },
+        "city": "Storslett",
+        "state": "Bergen",
+        "postcode": "1466",
+        "coordinates": {
+          "latitude": "53.4131",
+          "longitude": "-8.9467"
+        },
+        "timezone": {
+          "offset": "+7:00",
+          "description": "Bangkok, Hanoi, Jakarta"
+        }
+      },
+      "email": "Trygve.Lystad@example.com",
+      "login": {
+        "uuid": "e8c56c2b-4d69-4ad3-8bc2-a6370205304a",
+        "username": "smallcat688",
+        "password": "pumpkins",
+        "salt": "s1ALQ3ma",
+        "md5": "358a30d6795cffd2c8b6de9e55b81024",
+        "sha1": "6497522194ac6b99a1b1c1da796c01f60835335a",
+        "sha256": "f8ee48f27a66cbb616afb771b902f3cc35614fb289c2b0333efa47b0a44af239"
+      },
+      "dob": {
+        "date": "1965-12-08T00:23:40.616Z",
+        "age": 54
+      },
+      "registered": {
+        "date": "2006-01-25T01:13:27.620Z",
+        "age": 13
+      },
+      "phone": "21032026",
+      "cell": "49477005",
+      "id": {
+        "name": "FN",
+        "value": "08126513357"
+      },
+      "picture": {
+        "large": "http:///0.0.0.0:8080/assets/profile-images/trygve/large-trygve.jpg",
+        "medium": "http:///0.0.0.0:8080/assets/profile-images/trygve/medium-trygve.jpg",
+        "thumbnail": "http:///0.0.0.0:8080/assets/profile-images/trygve/thumb-trygve.jpg"
+      },
+      "nat": "NO"
+    },{
+      "gender": "female",
+      "name": {
+        "title": "Mrs",
+        "first": "Delphine",
+        "last": "Chan"
+      },
+      "location": {
+        "street": {
+          "number": 7712,
+          "name": "Dundas Rd"
+        },
+        "city": "Hampstead",
+        "state": "Québec",
+        "country": "Canada",
+        "postcode": "T5D 2G1",
+        "coordinates": {
+          "latitude": "-61.6089",
+          "longitude": "121.5271"
+        },
+        "timezone": {
+          "offset": "+1:00",
+          "description": "Brussels, Copenhagen, Madrid, Paris"
+        }
+      },
+      "email": "Delphine.Chan@example.com",
+      "login": {
+        "uuid": "5287c76c-f082-45da-a11a-f2adc5d8a7d9",
+        "username": "redwolf251",
+        "password": "asdasd",
+        "salt": "aFku1POh",
+        "md5": "f0098ee3027f75327867f4e80d631222",
+        "sha1": "bb7a5214e0cee006a2ce221299f153d8075023df",
+        "sha256": "a498224901056fd25d1712e24ce51892c6597a21edf5b12fc32fbbcf0516a32e"
+      },
+      "dob": {
+        "date": "1981-04-24T12:08:19.212Z",
+        "age": 38
+      },
+      "registered": {
+        "date": "2017-03-22T18:00:12.295Z",
+        "age": 2
+      },
+      "phone": "385-648-5162",
+      "cell": "951-217-0370",
+      "id": {
+        "name": "",
+        "value": null
+      },
+      "picture": {
+        "large": "http:///0.0.0.0:8080/assets/profile-images/delphine/large-delphine.jpg",
+        "medium": "http:///0.0.0.0:8080/assets/profile-images/delphine/medium-delphine.jpg",
+        "thumbnail": "http:///0.0.0.0:8080/assets/profile-images/delphine/thumb-delphine.jpg"
+      },
+      "nat": "CA"
     }
   ],
   "info": {
     "seed": "1a39b5fa3932be67",
-    "results": 2,
+    "results": 4,
     "page": 1,
     "version": "1.3"
   }

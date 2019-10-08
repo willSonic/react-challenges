@@ -1,0 +1,941 @@
+{
+  "events": [
+    {
+      "event": {
+        "banner": {
+          "headline": "",
+          "subtitle": "",
+          "emoji": ""
+        },
+        "category": "music",
+        "center_court": {
+          "x": 133,
+          "y": 119,
+          "width": 11,
+          "height": 9
+        },
+        "datetime_local": "2019-10-09T18:00:00",
+        "datetime_utc": "2019-10-10T00:00:00",
+        "id": "5d14f730cc68a20018226d42",
+        "map_url": "https://maps.gametime.co/v2/summit_music_hall/music/music-8.png",
+        "min_price": {
+          "total": 0,
+          "prefee": 0
+        },
+        "name": "Obituary with Abbath",
+        "performers": [
+          {
+            "id": "5d167569722d46001996b337",
+            "primary": true
+          },
+          {
+            "id": "5d167569722d46001996b337",
+            "primary": false
+          }
+        ],
+        "sales_cut_off": "2019-10-10T01:30:00Z",
+        "section_map_id": "57e2f28b50575d33c8a48f9a",
+        "tbd": false,
+        "venue_id": "57e2f27c50575d33c8a48f4d",
+        "venue_config": "music"
+      },
+      "performers": [
+        {
+          "abbrev": "Obituary",
+          "category": "music",
+          "category_group": "concert",
+          "contrast_color": "d0021bFF",
+          "display_type": "performer_at_venue",
+          "id": "5d167569722d46001996b337",
+          "hero_image_url": "https://images.gametime.co/musicobituary/hero@4x.jpg",
+          "medium_name": "Obituary",
+          "name": "Obituary",
+          "primary_color": "d0021bFF",
+          "short_name": "Obituary",
+          "slug": "musicobituary"
+        },
+        {
+          "abbrev": "Obituary",
+          "category": "music",
+          "category_group": "concert",
+          "contrast_color": "d0021bFF",
+          "display_type": "performer_at_venue",
+          "id": "5d167569722d46001996b337",
+          "hero_image_url": "https://images.gametime.co/musicobituary/hero@4x.jpg",
+          "medium_name": "Obituary",
+          "name": "Obituary",
+          "primary_color": "d0021bFF",
+          "short_name": "Obituary",
+          "slug": "musicobituary"
+        }
+      ],
+      "venue": {
+        "city": "Denver",
+        "id": "57e2f27c50575d33c8a48f4d",
+        "location": {
+          "lat": 39.7533,
+          "lon": -104.9951
+        },
+        "name": "Summit Music Hall",
+        "show_currency": false,
+        "slug": "summit_music_hall",
+        "state": "CO",
+        "timezone": "America/Denver",
+        "metro": "colorado",
+        "image_url": "https://maps.gametime.co/v2/summit_music_hall/music/music-8.png"
+      }
+    },
+    {
+      "event": {
+        "banner": {
+          "headline": "",
+          "subtitle": "",
+          "emoji": ""
+        },
+        "category": "music",
+        "center_court": {
+          "x": 133,
+          "y": 119,
+          "width": 11,
+          "height": 9
+        },
+        "datetime_local": "2019-10-10T19:00:00",
+        "datetime_utc": "2019-10-11T00:00:00",
+        "id": "5d1ce1231484ef00177e3a51",
+        "map_url": "https://maps.gametime.co/v2/granada_theater/music/music-8.png",
+        "min_price": {
+          "total": 0,
+          "prefee": 0
+        },
+        "name": "Obituary with Abbath",
+        "performers": [
+          {
+            "id": "5d167569722d46001996b337",
+            "primary": true
+          },
+          {
+            "id": "5d167569722d46001996b337",
+            "primary": false
+          }
+        ],
+        "sales_cut_off": "2019-10-11T01:30:00Z",
+        "section_map_id": "57e3206550575d33c8a6101a",
+        "tbd": false,
+        "venue_id": "57e3202f50575d33c8a60ece",
+        "venue_config": "music"
+      },
+      "performers": [
+        {
+          "abbrev": "Obituary",
+          "category": "music",
+          "category_group": "concert",
+          "contrast_color": "d0021bFF",
+          "display_type": "performer_at_venue",
+          "id": "5d167569722d46001996b337",
+          "hero_image_url": "https://images.gametime.co/musicobituary/hero@4x.jpg",
+          "medium_name": "Obituary",
+          "name": "Obituary",
+          "primary_color": "d0021bFF",
+          "short_name": "Obituary",
+          "slug": "musicobituary"
+        },
+        {
+          "abbrev": "Obituary",
+          "category": "music",
+          "category_group": "concert",
+          "contrast_color": "d0021bFF",
+          "display_type": "performer_at_venue",
+          "id": "5d167569722d46001996b337",
+          "hero_image_url": "https://images.gametime.co/musicobituary/hero@4x.jpg",
+          "medium_name": "Obituary",
+          "name": "Obituary",
+          "primary_color": "d0021bFF",
+          "short_name": "Obituary",
+          "slug": "musicobituary"
+        }
+      ],
+      "venue": {
+        "city": "Lawrence",
+        "id": "57e3202f50575d33c8a60ece",
+        "location": {
+          "lat": 38.9648,
+          "lon": -95.2357
+        },
+        "name": "Granada Theater",
+        "show_currency": false,
+        "slug": "granada_theater",
+        "state": "KS",
+        "timezone": "America/Chicago",
+        "metro": "kansascity",
+        "image_url": "https://maps.gametime.co/v2/granada_theater/music/music-8.png"
+      }
+    },
+    {
+      "event": {
+        "banner": {
+          "headline": "",
+          "subtitle": "",
+          "emoji": ""
+        },
+        "category": "music",
+        "center_court": {
+          "x": 133,
+          "y": 119,
+          "width": 11,
+          "height": 9
+        },
+        "datetime_local": "2019-10-10T19:00:00",
+        "datetime_utc": "2019-10-10T23:00:00",
+        "id": "5d1f827c54169d0019119187",
+        "map_url": "https://maps.gametime.co/v2/930_club/music/music-8.png",
+        "min_price": {
+          "total": 0,
+          "prefee": 0
+        },
+        "name": "SHAED with Absofacto and Shad",
+        "performers": [
+          {
+            "id": "5d49be2d0705390036a76113",
+            "primary": true
+          },
+          {
+            "id": "5d49be2d0705390036a76113",
+            "primary": false
+          }
+        ],
+        "sales_cut_off": "2019-10-11T00:30:00Z",
+        "section_map_id": "57bf6dcff80c411f77afb9a5",
+        "tbd": false,
+        "venue_id": "57a264b1f80c41466ca5c93d",
+        "venue_config": "music"
+      },
+      "performers": [
+        {
+          "abbrev": "SHAED",
+          "category": "music",
+          "category_group": "concert",
+          "contrast_color": "",
+          "display_type": "performer_at_venue",
+          "id": "5d49be2d0705390036a76113",
+          "hero_image_url": "https://images.gametime.co/musicshaed/hero@4x.jpg",
+          "medium_name": "SHAED",
+          "name": "SHAED",
+          "primary_color": "f5a623FF",
+          "short_name": "SHAED",
+          "slug": "musicshaed"
+        },
+        {
+          "abbrev": "SHAED",
+          "category": "music",
+          "category_group": "concert",
+          "contrast_color": "",
+          "display_type": "performer_at_venue",
+          "id": "5d49be2d0705390036a76113",
+          "hero_image_url": "https://images.gametime.co/musicshaed/hero@4x.jpg",
+          "medium_name": "SHAED",
+          "name": "SHAED",
+          "primary_color": "f5a623FF",
+          "short_name": "SHAED",
+          "slug": "musicshaed"
+        }
+      ],
+      "venue": {
+        "city": "Washington",
+        "id": "57a264b1f80c41466ca5c93d",
+        "location": {
+          "lat": 38.91808659999999,
+          "lon": -77.02365640000001
+        },
+        "name": "930 Club",
+        "show_currency": false,
+        "slug": "930_club",
+        "state": "DC",
+        "timezone": "America/New_York",
+        "metro": "washingtondc",
+        "image_url": "https://maps.gametime.co/v2/930_club/music/music-8.png"
+      }
+    },
+    {
+      "event": {
+        "banner": {
+          "headline": "",
+          "subtitle": "",
+          "emoji": ""
+        },
+        "category": "music",
+        "center_court": {
+          "x": 133,
+          "y": 119,
+          "width": 11,
+          "height": 9
+        },
+        "datetime_local": "2019-10-11T18:30:00",
+        "datetime_utc": "2019-10-11T22:30:00",
+        "id": "5d49b25702ac0a0039d05fea",
+        "map_url": "https://maps.gametime.co/v2/the_foundry_phi/music/music-8.png",
+        "min_price": {
+          "total": 0,
+          "prefee": 0
+        },
+        "name": "SHAED with Absofacto",
+        "performers": [
+          {
+            "id": "5d49be2d0705390036a76113",
+            "primary": true
+          },
+          {
+            "id": "5d49be2d0705390036a76113",
+            "primary": false
+          }
+        ],
+        "sales_cut_off": "2019-10-12T00:00:00Z",
+        "section_map_id": "57eade6ecde6626ebe3ba6a9",
+        "tbd": false,
+        "venue_id": "57eade5ecde6626ebe3ba5e8",
+        "venue_config": "music"
+      },
+      "performers": [
+        {
+          "abbrev": "SHAED",
+          "category": "music",
+          "category_group": "concert",
+          "contrast_color": "",
+          "display_type": "performer_at_venue",
+          "id": "5d49be2d0705390036a76113",
+          "hero_image_url": "https://images.gametime.co/musicshaed/hero@4x.jpg",
+          "medium_name": "SHAED",
+          "name": "SHAED",
+          "primary_color": "f5a623FF",
+          "short_name": "SHAED",
+          "slug": "musicshaed"
+        },
+        {
+          "abbrev": "SHAED",
+          "category": "music",
+          "category_group": "concert",
+          "contrast_color": "",
+          "display_type": "performer_at_venue",
+          "id": "5d49be2d0705390036a76113",
+          "hero_image_url": "https://images.gametime.co/musicshaed/hero@4x.jpg",
+          "medium_name": "SHAED",
+          "name": "SHAED",
+          "primary_color": "f5a623FF",
+          "short_name": "SHAED",
+          "slug": "musicshaed"
+        }
+      ],
+      "venue": {
+        "city": "Philadelphia",
+        "id": "57eade5ecde6626ebe3ba5e8",
+        "location": {
+          "lat": 39.9649452,
+          "lon": -75.1346806
+        },
+        "name": "The Foundry",
+        "show_currency": false,
+        "slug": "the_foundry_phi",
+        "state": "PA",
+        "timezone": "America/New_York",
+        "metro": "philadelphia",
+        "image_url": "https://maps.gametime.co/v2/the_foundry_phi/music/music-8.png"
+      }
+    },
+    {
+      "event": {
+        "banner": {
+          "headline": "",
+          "subtitle": "",
+          "emoji": ""
+        },
+        "category": "music",
+        "center_court": {
+          "x": 133,
+          "y": 119,
+          "width": 11,
+          "height": 9
+        },
+        "datetime_local": "2019-10-11T20:30:00",
+        "datetime_utc": "2019-10-12T00:30:00",
+        "id": "5d0fb1e8187c75001b25d7b5",
+        "map_url": "https://maps.gametime.co/v2/grizzly_rose/music/music-8.png",
+        "min_price": {
+          "total": 0,
+          "prefee": 0
+        },
+        "name": "Josh Abbott Band (18+)",
+        "performers": [
+          {
+            "id": "58b75009f80c412371dcaaff",
+            "primary": true
+          },
+          {
+            "id": "58b75009f80c412371dcaaff",
+            "primary": false
+          }
+        ],
+        "sales_cut_off": "2019-10-12T01:30:00Z",
+        "section_map_id": "59937ecf9da0d48c0de078bc",
+        "tbd": false,
+        "venue_id": "59937ece9da0d48c0de078b5",
+        "venue_config": "music"
+      },
+      "performers": [
+        {
+          "abbrev": "ABBOTT",
+          "category": "music",
+          "category_group": "concert",
+          "contrast_color": "",
+          "display_type": "performer_at_venue",
+          "id": "58b75009f80c412371dcaaff",
+          "hero_image_url": "https://images.gametime.co/musicjoshabbott/hero@4x.jpg",
+          "medium_name": "Josh Abbott Band",
+          "name": "Josh Abbott Band",
+          "primary_color": "A1B29EFF",
+          "short_name": "Josh Abbott Band",
+          "slug": "musicjoshabbott"
+        },
+        {
+          "abbrev": "ABBOTT",
+          "category": "music",
+          "category_group": "concert",
+          "contrast_color": "",
+          "display_type": "performer_at_venue",
+          "id": "58b75009f80c412371dcaaff",
+          "hero_image_url": "https://images.gametime.co/musicjoshabbott/hero@4x.jpg",
+          "medium_name": "Josh Abbott Band",
+          "name": "Josh Abbott Band",
+          "primary_color": "A1B29EFF",
+          "short_name": "Josh Abbott Band",
+          "slug": "musicjoshabbott"
+        }
+      ],
+      "venue": {
+        "city": "Denver",
+        "id": "59937ece9da0d48c0de078b5",
+        "location": {
+          "lat": 39.6897103,
+          "lon": -104.9727416
+        },
+        "name": "Grizzly Rose",
+        "show_currency": false,
+        "slug": "grizzly_rose",
+        "state": "CO",
+        "timezone": "America/New_York",
+        "metro": "colorado",
+        "image_url": "https://maps.gametime.co/v2/grizzly_rose/music/music-8.png"
+      }
+    },
+    {
+      "event": {
+        "banner": {
+          "headline": "",
+          "subtitle": "",
+          "emoji": ""
+        },
+        "category": "music",
+        "center_court": {
+          "x": 133,
+          "y": 119,
+          "width": 11,
+          "height": 9
+        },
+        "datetime_local": "2019-10-12T19:00:00",
+        "datetime_utc": "2019-10-13T01:00:00",
+        "id": "5d3df1fcfbdb180035930de1",
+        "map_url": "https://maps.gametime.co/v2/in_the_venue/music/music-8.png",
+        "min_price": {
+          "total": 0,
+          "prefee": 0
+        },
+        "name": "Being As An Ocean: Holding Absence",
+        "performers": [
+          {
+            "id": "5d35e144e7a4be0038c6f577",
+            "primary": true
+          },
+          {
+            "id": "5d35e144e7a4be0038c6f577",
+            "primary": false
+          }
+        ],
+        "sales_cut_off": "2019-10-13T02:30:00Z",
+        "section_map_id": "57eaab79cde6626ebe38433a",
+        "tbd": false,
+        "venue_id": "57eaab67cde6626ebe3842da",
+        "venue_config": "music"
+      },
+      "performers": [
+        {
+          "abbrev": "OCEAN",
+          "category": "music",
+          "category_group": "concert",
+          "contrast_color": "",
+          "display_type": "performer_at_venue",
+          "id": "5d35e144e7a4be0038c6f577",
+          "hero_image_url": "https://images.gametime.co/musicbeingasanocean/hero@4x.jpg",
+          "medium_name": "Being As An Ocean",
+          "name": "Being As An Ocean",
+          "primary_color": "4a90e2FF",
+          "short_name": "Being As An Ocean",
+          "slug": "musicbeingasanocean"
+        },
+        {
+          "abbrev": "OCEAN",
+          "category": "music",
+          "category_group": "concert",
+          "contrast_color": "",
+          "display_type": "performer_at_venue",
+          "id": "5d35e144e7a4be0038c6f577",
+          "hero_image_url": "https://images.gametime.co/musicbeingasanocean/hero@4x.jpg",
+          "medium_name": "Being As An Ocean",
+          "name": "Being As An Ocean",
+          "primary_color": "4a90e2FF",
+          "short_name": "Being As An Ocean",
+          "slug": "musicbeingasanocean"
+        }
+      ],
+      "venue": {
+        "city": "Salt Lake City",
+        "id": "57eaab67cde6626ebe3842da",
+        "location": {
+          "lat": 40.76458119999999,
+          "lon": -111.9078929
+        },
+        "name": "In The Venue",
+        "show_currency": false,
+        "slug": "in_the_venue",
+        "state": "UT",
+        "timezone": "America/Denver",
+        "metro": "saltlakecity",
+        "image_url": "https://maps.gametime.co/v2/in_the_venue/music/music-8.png"
+      }
+    },
+    {
+      "event": {
+        "banner": {
+          "headline": "",
+          "subtitle": "",
+          "emoji": ""
+        },
+        "category": "music",
+        "center_court": {
+          "x": 133,
+          "y": 119,
+          "width": 11,
+          "height": 9
+        },
+        "datetime_local": "2019-10-13T19:00:00",
+        "datetime_utc": "2019-10-14T00:00:00",
+        "id": "5d1ce140fb2bb70018b198fd",
+        "map_url": "https://maps.gametime.co/v2/a_and_r_music_bar/music/music-8.png",
+        "min_price": {
+          "total": 0,
+          "prefee": 0
+        },
+        "name": "SHAED with Absofacto",
+        "performers": [
+          {
+            "id": "5d49be2d0705390036a76113",
+            "primary": true
+          },
+          {
+            "id": "5d49be2d0705390036a76113",
+            "primary": false
+          }
+        ],
+        "sales_cut_off": "2019-10-14T01:30:00Z",
+        "section_map_id": "57eade74cde6626ebe3ba6df",
+        "tbd": false,
+        "venue_id": "57eade5dcde6626ebe3ba5e3",
+        "venue_config": "music"
+      },
+      "performers": [
+        {
+          "abbrev": "SHAED",
+          "category": "music",
+          "category_group": "concert",
+          "contrast_color": "",
+          "display_type": "performer_at_venue",
+          "id": "5d49be2d0705390036a76113",
+          "hero_image_url": "https://images.gametime.co/musicshaed/hero@4x.jpg",
+          "medium_name": "SHAED",
+          "name": "SHAED",
+          "primary_color": "f5a623FF",
+          "short_name": "SHAED",
+          "slug": "musicshaed"
+        },
+        {
+          "abbrev": "SHAED",
+          "category": "music",
+          "category_group": "concert",
+          "contrast_color": "",
+          "display_type": "performer_at_venue",
+          "id": "5d49be2d0705390036a76113",
+          "hero_image_url": "https://images.gametime.co/musicshaed/hero@4x.jpg",
+          "medium_name": "SHAED",
+          "name": "SHAED",
+          "primary_color": "f5a623FF",
+          "short_name": "SHAED",
+          "slug": "musicshaed"
+        }
+      ],
+      "venue": {
+        "city": "Columbus",
+        "id": "57eade5dcde6626ebe3ba5e3",
+        "location": {
+          "lat": 39.9695,
+          "lon": -83.01
+        },
+        "name": "A and R Music Bar",
+        "show_currency": false,
+        "slug": "a_and_r_music_bar",
+        "state": "OH",
+        "timezone": "America/Chicago",
+        "metro": "columbus",
+        "image_url": "https://maps.gametime.co/v2/a_and_r_music_bar/music/music-8.png"
+      }
+    },
+    {
+      "event": {
+        "banner": {
+          "headline": "",
+          "subtitle": "",
+          "emoji": ""
+        },
+        "category": "music",
+        "center_court": {
+          "x": 133,
+          "y": 119,
+          "width": 11,
+          "height": 9
+        },
+        "datetime_local": "2019-10-13T20:00:00",
+        "datetime_utc": "2019-10-14T01:00:00",
+        "id": "5d1ce142fb2bb70018b198fe",
+        "map_url": "https://maps.gametime.co/v2/the_sylvee/music/music-8.png",
+        "min_price": {
+          "total": 0,
+          "prefee": 0
+        },
+        "name": "Obituary with Abbath",
+        "performers": [
+          {
+            "id": "5d167569722d46001996b337",
+            "primary": true
+          },
+          {
+            "id": "5d167569722d46001996b337",
+            "primary": false
+          }
+        ],
+        "sales_cut_off": "2019-10-14T02:30:00Z",
+        "section_map_id": "5bc64db3ede87193257effed",
+        "tbd": false,
+        "venue_id": "5bc64bc2be77be0017f365c6",
+        "venue_config": "music"
+      },
+      "performers": [
+        {
+          "abbrev": "Obituary",
+          "category": "music",
+          "category_group": "concert",
+          "contrast_color": "d0021bFF",
+          "display_type": "performer_at_venue",
+          "id": "5d167569722d46001996b337",
+          "hero_image_url": "https://images.gametime.co/musicobituary/hero@4x.jpg",
+          "medium_name": "Obituary",
+          "name": "Obituary",
+          "primary_color": "d0021bFF",
+          "short_name": "Obituary",
+          "slug": "musicobituary"
+        },
+        {
+          "abbrev": "Obituary",
+          "category": "music",
+          "category_group": "concert",
+          "contrast_color": "d0021bFF",
+          "display_type": "performer_at_venue",
+          "id": "5d167569722d46001996b337",
+          "hero_image_url": "https://images.gametime.co/musicobituary/hero@4x.jpg",
+          "medium_name": "Obituary",
+          "name": "Obituary",
+          "primary_color": "d0021bFF",
+          "short_name": "Obituary",
+          "slug": "musicobituary"
+        }
+      ],
+      "venue": {
+        "city": "Madison",
+        "id": "5bc64bc2be77be0017f365c6",
+        "location": {
+          "lat": 43.08059,
+          "lon": -89.374509
+        },
+        "name": "The Sylvee",
+        "show_currency": false,
+        "slug": "the_sylvee",
+        "state": "WI",
+        "timezone": "America/Chicago",
+        "metro": "milwaukee",
+        "image_url": "https://media.channel3000.com/mmm-wisctv-media-us-east-1/photo/2018/09/26/SYLVEE%20OPENING%20_OP_14_CP__1537992509917.jpg_13370205_ver1.0_640_360.jpg"
+      }
+    },
+    {
+      "event": {
+        "banner": {
+          "headline": "",
+          "subtitle": "",
+          "emoji": ""
+        },
+        "category": "music",
+        "center_court": {
+          "x": 133,
+          "y": 119,
+          "width": 11,
+          "height": 9
+        },
+        "datetime_local": "2019-10-15T18:00:00",
+        "datetime_utc": "2019-10-15T22:00:00",
+        "id": "5d1ce1461484ef00177e3a5d",
+        "map_url": "https://maps.gametime.co/v2/saint_andrews_hall/music/music-8.png",
+        "min_price": {
+          "total": 0,
+          "prefee": 0
+        },
+        "name": "Obituary with Abbath",
+        "performers": [
+          {
+            "id": "5d167569722d46001996b337",
+            "primary": true
+          },
+          {
+            "id": "5d167569722d46001996b337",
+            "primary": false
+          }
+        ],
+        "sales_cut_off": "2019-10-15T23:30:00Z",
+        "section_map_id": "57e1b51850575d33c89d68ec",
+        "tbd": false,
+        "venue_id": "57ab8b29f80c411f8fdebfe5",
+        "venue_config": "music"
+      },
+      "performers": [
+        {
+          "abbrev": "Obituary",
+          "category": "music",
+          "category_group": "concert",
+          "contrast_color": "d0021bFF",
+          "display_type": "performer_at_venue",
+          "id": "5d167569722d46001996b337",
+          "hero_image_url": "https://images.gametime.co/musicobituary/hero@4x.jpg",
+          "medium_name": "Obituary",
+          "name": "Obituary",
+          "primary_color": "d0021bFF",
+          "short_name": "Obituary",
+          "slug": "musicobituary"
+        },
+        {
+          "abbrev": "Obituary",
+          "category": "music",
+          "category_group": "concert",
+          "contrast_color": "d0021bFF",
+          "display_type": "performer_at_venue",
+          "id": "5d167569722d46001996b337",
+          "hero_image_url": "https://images.gametime.co/musicobituary/hero@4x.jpg",
+          "medium_name": "Obituary",
+          "name": "Obituary",
+          "primary_color": "d0021bFF",
+          "short_name": "Obituary",
+          "slug": "musicobituary"
+        }
+      ],
+      "venue": {
+        "city": "Detroit",
+        "id": "57ab8b29f80c411f8fdebfe5",
+        "location": {
+          "lat": 42.3323959,
+          "lon": -83.0416336
+        },
+        "name": "Saint Andrews Hall",
+        "show_currency": false,
+        "slug": "saint_andrews_hall",
+        "state": "MI",
+        "timezone": "America/New_York",
+        "metro": "detroit",
+        "image_url": "https://maps.gametime.co/v2/saint_andrews_hall/music/music-8.png"
+      }
+    },
+    {
+      "event": {
+        "banner": {
+          "headline": "",
+          "subtitle": "",
+          "emoji": ""
+        },
+        "category": "music",
+        "center_court": {
+          "x": 133,
+          "y": 119,
+          "width": 11,
+          "height": 9
+        },
+        "datetime_local": "2019-10-15T20:00:00",
+        "datetime_utc": "2019-10-16T01:00:00",
+        "id": "5d0a6a723dafe3001a9b3ad5",
+        "map_url": "https://maps.gametime.co/v2/exit_in/music/music-8.png",
+        "min_price": {
+          "total": 0,
+          "prefee": 0
+        },
+        "name": "SHAED with Absofacto and Shad (18+)",
+        "performers": [
+          {
+            "id": "5d49be2d0705390036a76113",
+            "primary": true
+          },
+          {
+            "id": "5d49be2d0705390036a76113",
+            "primary": false
+          }
+        ],
+        "sales_cut_off": "2019-10-16T02:30:00Z",
+        "section_map_id": "598ce7f29da0d48c0db72407",
+        "tbd": false,
+        "venue_id": "598ce7dd9da0d48c0db72387",
+        "venue_config": "music"
+      },
+      "performers": [
+        {
+          "abbrev": "SHAED",
+          "category": "music",
+          "category_group": "concert",
+          "contrast_color": "",
+          "display_type": "performer_at_venue",
+          "id": "5d49be2d0705390036a76113",
+          "hero_image_url": "https://images.gametime.co/musicshaed/hero@4x.jpg",
+          "medium_name": "SHAED",
+          "name": "SHAED",
+          "primary_color": "f5a623FF",
+          "short_name": "SHAED",
+          "slug": "musicshaed"
+        },
+        {
+          "abbrev": "SHAED",
+          "category": "music",
+          "category_group": "concert",
+          "contrast_color": "",
+          "display_type": "performer_at_venue",
+          "id": "5d49be2d0705390036a76113",
+          "hero_image_url": "https://images.gametime.co/musicshaed/hero@4x.jpg",
+          "medium_name": "SHAED",
+          "name": "SHAED",
+          "primary_color": "f5a623FF",
+          "short_name": "SHAED",
+          "slug": "musicshaed"
+        }
+      ],
+      "venue": {
+        "city": "Nashville",
+        "id": "598ce7dd9da0d48c0db72387",
+        "location": {
+          "lat": 36.1514,
+          "lon": -86.8044
+        },
+        "name": "Exit In",
+        "show_currency": false,
+        "slug": "exit_in",
+        "state": "TM",
+        "timezone": "America/Chicago",
+        "metro": "nashville",
+        "image_url": "https://maps.gametime.co/v2/exit_in/music/music-8.png"
+      }
+    }
+  ],
+  "performers": [
+    {
+      "abbrev": "ACU",
+      "category": "cbb",
+      "category_group": "sport",
+      "contrast_color": "",
+      "display_type": "performer_vs_performer",
+      "id": "5d3a1db8be45e4003466dde4",
+      "hero_image_url": "https://images.gametime.co/cbbabil/hero@4x.jpg",
+      "medium_name": "ACU Wildcats",
+      "name": "Abilene Christian Basketball",
+      "primary_color": "7ed321FF",
+      "short_name": "Wildcats",
+      "slug": "cbbabil"
+    },
+    {
+      "abbrev": "ABOVE",
+      "category": "music",
+      "category_group": "concert",
+      "contrast_color": "",
+      "display_type": "performer_at_venue",
+      "id": "5952e69425f2c578f06ac16d",
+      "hero_image_url": "https://images.gametime.co/musicaboveandbeyond/hero@4x.jpg",
+      "medium_name": "Above and Beyond",
+      "name": "Above and Beyond",
+      "primary_color": "3696DBFF",
+      "short_name": "Above and Beyond",
+      "slug": "musicaboveandbeyond"
+    },
+    {
+      "abbrev": "ACU",
+      "category": "cfb",
+      "category_group": "sport",
+      "contrast_color": "C2B068FF",
+      "display_type": "performer_vs_performer",
+      "id": "5a6ba03125f2c52c6e34339c",
+      "hero_image_url": "https://images.gametime.co/cfbalb/hero@4x.jpg",
+      "medium_name": "ACU Wildcats",
+      "name": "Abilene Christian Football",
+      "primary_color": "83031BFF",
+      "short_name": "Wildcats",
+      "slug": "cfbalb"
+    },
+    {
+      "abbrev": "ABBOTT",
+      "category": "music",
+      "category_group": "concert",
+      "contrast_color": "",
+      "display_type": "performer_at_venue",
+      "id": "58b75009f80c412371dcaaff",
+      "hero_image_url": "https://images.gametime.co/musicjoshabbott/hero@4x.jpg",
+      "medium_name": "Josh Abbott Band",
+      "name": "Josh Abbott Band",
+      "primary_color": "A1B29EFF",
+      "short_name": "Josh Abbott Band",
+      "slug": "musicjoshabbott"
+    },
+    {
+      "abbrev": "Seraglio",
+      "category": "theater",
+      "category_group": "theater",
+      "contrast_color": "",
+      "display_type": "performer_at_venue",
+      "id": "5834daedf80c415ba2863997",
+      "hero_image_url": "https://images.gametime.co/theaterseraglio/hero@4x.jpg",
+      "medium_name": "The Abduction from the Seraglio",
+      "name": "The Abduction from the Seraglio",
+      "primary_color": "C1D2D9FF",
+      "short_name": "The Abduction from the Seraglio",
+      "slug": "theaterseraglio"
+    },
+    {
+      "abbrev": "DFA",
+      "category": "music",
+      "category_group": "concert",
+      "contrast_color": "",
+      "display_type": "performer_at_venue",
+      "id": "5b85cb750d883800136421bc",
+      "hero_image_url": "https://images.gametime.co/musicdeathfromabove/hero@4x.jpg",
+      "medium_name": "Death From Above",
+      "name": "Death From Above",
+      "primary_color": "d0021bFF",
+      "short_name": "Death From Above",
+      "slug": "musicdeathfromabove"
+    }
+  ],
+  "venues": []
+}
