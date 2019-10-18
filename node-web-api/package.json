@@ -93,7 +93,6 @@
     "forwarded": "0.1.2",
     "fragment-cache": "0.2.1",
     "fresh": "0.5.2",
-    "fsevents": "1.2.9",
     "get-stream": "3.0.0",
     "get-value": "2.0.6",
     "glob-parent": "3.1.0",
@@ -160,7 +159,7 @@
     "nan": "2.14.0",
     "nanomatch": "1.2.13",
     "negotiator": "0.6.2",
-    "nodemon": "1.19.3",
+    "nodemon": "1.19.4",
     "nopt": "1.0.10",
     "normalize-path": "3.0.0",
     "npm-run-path": "2.0.2",
@@ -265,6 +264,4 @@
     "xdg-basedir": "3.0.0",
     "yallist": "2.1.2"
   }
-
 }
-
