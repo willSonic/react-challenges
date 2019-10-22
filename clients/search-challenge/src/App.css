@@ -1,15 +1,18 @@
 .App {
-  text-align: center;
-}
-
-.App-logo {
-  height: 40vmin;
-}
-
-.App-header {
   background-color: white;
   min-height: 100vh;
   display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+
+.App-logo {
+  height:10vmin;
+  margin-top: 33vh;
+  flex-shrink: 0;
+}
+
+.App-header {
   flex-direction: column;
   align-items: center;
   justify-content: center;
@@ -17,8 +20,73 @@
   color:  #282c34;
 }
 
-.App-search-input {
 
+.search-field {
+  position: relative;
+}
+
+.search-field input{
+  margin-top: 12px;
+  width:400px;
+  font-size: 22px;
+  vertical-align: middle;
+  border: 1px solid;
+  border-radius: 100px;
+  position: relative;
+}
+.search-result-list {
+  padding-top: 180px;
+  width: 400px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  max-height: 33vh;
+  overflow: scroll;
+  flex-shrink: 0;
+}
+.search-result-list ul{
+  margin-right: auto;
+  margin-left: auto;
+  width: 350px;
+  list-style: none;
+  padding: 0 10px;
+  border: 1px solid lightgray;
+}
+
+.search-result-list ul li{
+  border-bottom: 1px solid lightgray;
+  display: flex;
+  flex-direction: row;
+}
+.result-info{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  flex-wrap: nowrap;
+}
+.result-title{
+  font-size: 16px;
+  width: 200px;
+  text-align: left;
+  flex-wrap: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+.result-sub-title{
+  padding-top:6px;
+  font-size: 14px;
+  color: gray;
+  text-align: left;
+  flex-wrap: nowrap;
+}
+
+.result-img{
+  padding: 8px;
+}
+.result-img img{
+  width: 50px;
+  height: 50px;
+  object-fit: cover;
 }
 
 .App-link {

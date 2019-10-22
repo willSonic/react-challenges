@@ -1,0 +1,21 @@
+.light-bulb {
+  width: 64px;
+  height: 64px;
+  border-radius: 50%;
+  margin: 10px;
+  opacity: 0.2;
+}
+.light-bulb.active {
+  opacity: 1;
+}
+.light-bulb.red {
+  background-color: red;
+}
+
+.light-bulb.yellow {
+  background-color: yellow;
+}
+
+.light-bulb.green {
+  background-color: green;
+}
